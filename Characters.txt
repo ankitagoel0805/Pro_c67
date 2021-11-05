@@ -1,3 +1,4 @@
 Detective
-victim
+Victim
 Witnesses
+Murderer

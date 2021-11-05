@@ -1,2 +1,2 @@
 MURDER MYSTERY
-Victim was killed and a detective is assigned who would solve the case.
+Victim was killed and a detective is assigned who would solve the case by finding the murderer.
