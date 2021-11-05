@@ -2,3 +2,5 @@ Detective
 Victim
 Witnesses
 Murderer
+Family
+Friends
